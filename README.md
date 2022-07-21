@@ -16,13 +16,13 @@ In the following graph we can observe all the information extracted from the dat
 
 •	Finally, the “average fare per ride” of the urban cities is $24.53 and the “average fare per driver” is $16.57 this represents that the average fare received per ride is $7.96 greater than   the average fare paid per driver.
 
-The total drivers are 2.973 of all city types. Urban cities have the most drivers with 2.405 this represents 80.9% of all drivers, in second place Suburban cities with 490 drivers that means 16.5% of all drivers, and finally Rural cities have 78 drivers for a 2.6%. 
+* The total drivers are 2.973 of all city types. Urban cities have the most drivers with 2.405 this represents 80.9% of all drivers, in second place Suburban cities with 490 drivers that means 16.5% of all drivers, and finally Rural cities have 78 drivers for a 2.6%. 
 ![](resources/img2.png) 
 
-The total Rides are 2.375 of all city types. Urban cities have the most rides demand with 1625 this represents 68.4% of all rides, in second place Suburban cities with 625 rides that means 26.3% of all rides demand, and finally Rural cities have 125 rides for a 5.3 %.
+* The total Rides are 2.375 of all city types. Urban cities have the most rides demand with 1625 this represents 68.4% of all rides, in second place Suburban cities with 625 rides that means 26.3% of all rides demand, and finally Rural cities have 125 rides for a 5.3 %.
 ![](resources/img3.png) 
 
-The total fares are $63,538.64 of all city types. Urban cities have the highest total fares with $39,854.38 this represents 62.7% of total fares, in second place Suburban cities with $19,356.33 that means 30.5% of total fares, and finally Rural cities have $4,327.93 for a 6.8 %.
+* The total fares are $63,538.64 of all city types. Urban cities have the highest total fares with $39,854.38 this represents 62.7% of total fares, in second place Suburban cities with $19,356.33 that means 30.5% of total fares, and finally Rural cities have $4,327.93 for a 6.8 %.
 ![](resources/img4.png) 
 
 ## 3.	Summary:
