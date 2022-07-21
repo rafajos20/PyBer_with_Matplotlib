@@ -9,7 +9,7 @@ chart illustrates that the quantity of money made by the service is steady over 
 In the following graph we can observe all the information extracted from the data.
 ![](resources/img1.png) 
 
-### Finding
+
 *	The “average fare per ride” of the Rural cities is $34.62 and the “average fare per driver” is $55.49 it means the average Fare received per ride is $20.87 less compared to the average fare paid per driver. 
 
 *	The “average fare per ride” of the Suburban cities is $30.97 and the “average fare per driver” is $39.50, this represents that the average fare paid per driver is $8.53 greater than   the average fare received per ride.
