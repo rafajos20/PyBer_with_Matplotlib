@@ -11,7 +11,9 @@ In the following graph we can observe all the information extracted from the dat
 
 ### Finding
 •	The “average fare per ride” of the Rural cities is $34.62 and the “average fare per driver” is $55.49 it means the average Fare received per ride is $20.87 less compared to the average fare paid per driver. 
+
 •	The “average fare per ride” of the Suburban cities is $30.97 and the “average fare per driver” is $39.50, this represents that the average fare paid per driver is $8.53 greater than   the average fare received per ride.
+
 •	Finally, the “average fare per ride” of the urban cities is $24.53 and the “average fare per driver” is $16.57 this represents that the average fare received per ride is $7.96 greater than   the average fare paid per driver.
 
 The total drivers are 2.973 of all city types. Urban cities have the most drivers with 2.405 this represents 80.9% of all drivers, in second place Suburban cities with 490 drivers that means 16.5% of all drivers, and finally Rural cities have 78 drivers for a 2.6%. 
