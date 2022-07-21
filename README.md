@@ -3,10 +3,10 @@
 Create a summary report of all rides classified by type of city. with all the information of the weekly rides and their total fares for each type of city is unfolded, also required to visualize the information through a graph it could facilitate decision-making and generate positive changes.
 
 ## 2.	Results:
-chart illustrates that the quantity of money made by the service is steady over the period studied (January to May). Urban cities generate the most total revenue, followed by suburban and rural locations. When comparing urban and suburban cities, the average connection is 2:1, while the same relationship between urban and rural cities is 9:1.
+* chart illustrates that the quantity of money made by the service is steady over the period studied (January to May). Urban cities generate the most total revenue, followed by suburban and rural locations. When comparing urban and suburban cities, the average connection is 2:1, while the same relationship between urban and rural cities is 9:1.
 ![](resources/img0.png) 
 
-In the following graph we can observe all the information extracted from the data.
+* In the following graph we can observe all the information extracted from the data.
 ![](resources/img1.png) 
 
 
