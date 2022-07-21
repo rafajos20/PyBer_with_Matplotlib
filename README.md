@@ -12,9 +12,9 @@ Create a summary report of all rides classified by type of city. with all the in
 
 *	The “average fare per ride” of the Rural cities is $34.62 and the “average fare per driver” is $55.49, but the total rides are 125 for 78 drivers that mean each driver made 1.60 rides average. 
 
-*	The “average fare per ride” of the Suburban cities is $30.97 and the “average fare per driver” is $39.50. the total rides are 625 for 490 drivers for suburban cities it means each driver have opportunities to made 1.28 rides average. 
+*	The “average fare per ride” of the Suburban cities is $30.97 and the “average fare per driver” is $39.50. the total rides are 625 for 490 drivers for suburban cities it means each driver had opportunities to made 1.28 rides average. 
 
-*	Finally, the “average fare per ride” of the urban cities is $24.53 and the “average fare per driver” is $16.57. the total Rides are 1,625 for urban cities for 2,405 drivers, this means the driver have only 68% chance of made a ride. 
+*	Finally, the “average fare per ride” of the urban cities is $24.53 and the “average fare per driver” is $16.57. the total Rides are 1,625 for urban cities for 2,405 drivers, this means the driver had only 68% chance of made a ride. 
 
 * The total drivers are 2.973 of all city types. Urban cities have the most drivers with 2.405 this represents 80.9% of all drivers, in second place Suburban cities with 490 drivers that means 16.5% of all drivers, and finally Rural cities have 78 drivers for a 2.6%. 
 ![](resources/img2.png) 
