@@ -33,4 +33,4 @@ Create a summary report of all rides classified by type of city. with all the in
 
 1. standardize fares according to the distance in relation to the payment to the drivers and not according to the type of city.
 2. Create an annual membership to get benefic like access rides with cheaper rates compared to the current ones offered.
-3. Carry out a market study to determine the real demand for rides and see if it is feasible to hire new drivers in certain areas.
+3. Carry out a market study to determine the real demand for rides and see if it is feasible to hire new drivers or reduce them in certain areas.
